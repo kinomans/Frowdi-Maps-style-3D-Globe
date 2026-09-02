@@ -1,0 +1,20 @@
+{
+  "name": "frowdi-maps-3d-globe",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "cesium": "^1.144.0",
+    "lucide-react": "^1.38.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite-plugin-cesium": "^1.2.23"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
