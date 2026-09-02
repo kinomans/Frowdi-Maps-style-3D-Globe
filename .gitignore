@@ -6,3 +6,11 @@ dist
 .env.local
 .vercel
 .env*
+
+# Reference photos/screenshots dropped at the project root for review — never tracked.
+# (public/ and docs/ images are unaffected: the leading slash anchors these to root only.)
+/*.jpg
+/*.jpeg
+/*.png
+/*.heic
+/*.webp
